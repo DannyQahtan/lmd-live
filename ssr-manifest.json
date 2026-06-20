@@ -141,6 +141,9 @@
     "/assets/react-a3b2b924.js"
   ],
   "\u0000vite/modulepreload-polyfill": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -164,6 +167,9 @@
     "/assets/react-a3b2b924.js"
   ],
   "index.html": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -184,6 +190,9 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "index.html?html-proxy&inline-css&index=0.css": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2285,7 +2294,79 @@
   "node_modules/warning/warning.js": [
     "/assets/vendor-1536d2a4.js"
   ],
+  "src/assets/Logo.png": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
+    "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
+    "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
+    "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
+    "/assets/playfair-display-latin-400-italic-cc638df9.woff",
+    "/assets/playfair-display-latin-700-normal-28453852.woff2",
+    "/assets/playfair-display-latin-700-normal-648a046d.woff",
+    "/assets/playfair-display-latin-700-italic-de2f4041.woff2",
+    "/assets/playfair-display-latin-700-italic-ac47baa5.woff",
+    "/assets/montserrat-latin-400-normal-e66bcd27.woff2",
+    "/assets/montserrat-latin-400-normal-6a7d6a30.woff",
+    "/assets/montserrat-latin-500-normal-2b53300f.woff2",
+    "/assets/montserrat-latin-500-normal-7ad98b2c.woff",
+    "/assets/montserrat-latin-600-normal-d857325c.woff2",
+    "/assets/montserrat-latin-600-normal-97ec5882.woff",
+    "/assets/montserrat-latin-700-normal-f9d9e65b.woff2",
+    "/assets/montserrat-latin-700-normal-ff51c769.woff",
+    "/assets/montserrat-latin-800-normal-ba826fb8.woff2",
+    "/assets/montserrat-latin-800-normal-26f9e611.woff"
+  ],
+  "src/assets/LogoHorizontal.png": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
+    "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
+    "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
+    "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
+    "/assets/playfair-display-latin-400-italic-cc638df9.woff",
+    "/assets/playfair-display-latin-700-normal-28453852.woff2",
+    "/assets/playfair-display-latin-700-normal-648a046d.woff",
+    "/assets/playfair-display-latin-700-italic-de2f4041.woff2",
+    "/assets/playfair-display-latin-700-italic-ac47baa5.woff",
+    "/assets/montserrat-latin-400-normal-e66bcd27.woff2",
+    "/assets/montserrat-latin-400-normal-6a7d6a30.woff",
+    "/assets/montserrat-latin-500-normal-2b53300f.woff2",
+    "/assets/montserrat-latin-500-normal-7ad98b2c.woff",
+    "/assets/montserrat-latin-600-normal-d857325c.woff2",
+    "/assets/montserrat-latin-600-normal-97ec5882.woff",
+    "/assets/montserrat-latin-700-normal-f9d9e65b.woff2",
+    "/assets/montserrat-latin-700-normal-ff51c769.woff",
+    "/assets/montserrat-latin-800-normal-ba826fb8.woff2",
+    "/assets/montserrat-latin-800-normal-26f9e611.woff"
+  ],
+  "src/assets/LogoIcon.png": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
+    "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
+    "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
+    "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
+    "/assets/playfair-display-latin-400-italic-cc638df9.woff",
+    "/assets/playfair-display-latin-700-normal-28453852.woff2",
+    "/assets/playfair-display-latin-700-normal-648a046d.woff",
+    "/assets/playfair-display-latin-700-italic-de2f4041.woff2",
+    "/assets/playfair-display-latin-700-italic-ac47baa5.woff",
+    "/assets/montserrat-latin-400-normal-e66bcd27.woff2",
+    "/assets/montserrat-latin-400-normal-6a7d6a30.woff",
+    "/assets/montserrat-latin-500-normal-2b53300f.woff2",
+    "/assets/montserrat-latin-500-normal-7ad98b2c.woff",
+    "/assets/montserrat-latin-600-normal-d857325c.woff2",
+    "/assets/montserrat-latin-600-normal-97ec5882.woff",
+    "/assets/montserrat-latin-700-normal-f9d9e65b.woff2",
+    "/assets/montserrat-latin-700-normal-ff51c769.woff",
+    "/assets/montserrat-latin-800-normal-ba826fb8.woff2",
+    "/assets/montserrat-latin-800-normal-26f9e611.woff"
+  ],
   "src/components/DefaultMeta.tsx": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2306,6 +2387,9 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/components/StructuredData.tsx": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2326,9 +2410,12 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/components/schema/Breadcrumbs.tsx": [
-    "/assets/Breadcrumbs-77f152d6.js"
+    "/assets/Breadcrumbs-e06cbf17.js"
   ],
   "src/hooks/useMediaQuery.ts": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2349,6 +2436,9 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/index.css": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2369,6 +2459,9 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/layout/RootLayout.tsx": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2389,6 +2482,9 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/main.tsx": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2409,27 +2505,30 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/pages/ContactPage.tsx": [
-    "/assets/ContactPage-d5cb6740.js"
+    "/assets/ContactPage-dfa7b337.js"
   ],
   "src/pages/GalleryPage.tsx": [
-    "/assets/GalleryPage-670c1bb3.js"
+    "/assets/GalleryPage-959e78b6.js"
   ],
   "src/pages/HomePage.tsx": [
-    "/assets/HomePage-af7a2f5b.js"
+    "/assets/HomePage-eda066ef.js"
   ],
   "src/pages/NotFoundPage.tsx": [
-    "/assets/NotFoundPage-3890b62e.js"
+    "/assets/NotFoundPage-e79e2641.js"
   ],
   "src/pages/PackagesPage.tsx": [
-    "/assets/PackagesPage-34a9a78d.js"
+    "/assets/PackagesPage-91209195.js"
   ],
   "src/pages/PrivacyPage.tsx": [
-    "/assets/PrivacyPage-d7b8bbdb.js"
+    "/assets/PrivacyPage-7201dd61.js"
   ],
   "src/pages/ServicesPage.tsx": [
-    "/assets/ServicesPage-ccf1b30d.js"
+    "/assets/ServicesPage-5e0acfaa.js"
   ],
   "src/routes.tsx": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2450,9 +2549,12 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/contactUs/index.tsx": [
-    "/assets/ContactPage-d5cb6740.js"
+    "/assets/ContactPage-dfa7b337.js"
   ],
   "src/scenes/footer/index.tsx": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2473,15 +2575,18 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/gallery/index.tsx": [
-    "/assets/GalleryPage-670c1bb3.js"
+    "/assets/GalleryPage-959e78b6.js"
   ],
   "src/scenes/home/SectionTeasers.tsx": [
-    "/assets/HomePage-af7a2f5b.js"
+    "/assets/HomePage-eda066ef.js"
   ],
   "src/scenes/home/index.tsx": [
-    "/assets/HomePage-af7a2f5b.js"
+    "/assets/HomePage-eda066ef.js"
   ],
   "src/scenes/navbar/Link.tsx": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2502,6 +2607,9 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/navbar/index.tsx": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2522,15 +2630,18 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/packages/index.tsx": [
-    "/assets/PackagesPage-34a9a78d.js"
+    "/assets/PackagesPage-91209195.js"
   ],
   "src/scenes/privacy/index.tsx": [
-    "/assets/PrivacyPage-d7b8bbdb.js"
+    "/assets/PrivacyPage-7201dd61.js"
   ],
   "src/scenes/services/index.tsx": [
-    "/assets/ServicesPage-ccf1b30d.js"
+    "/assets/ServicesPage-5e0acfaa.js"
   ],
   "src/shared/Head.ts": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2551,6 +2662,9 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/shared/navRoutes.ts": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2571,6 +2685,9 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/shared/siteOrigin.ts": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -2591,6 +2708,9 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/shared/types.ts": [
+    "/assets/LogoHorizontal-b851becc.png",
+    "/assets/LogoIcon-46bae83a.png",
+    "/assets/Logo-37649d4b.png",
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",

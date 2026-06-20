@@ -1,6 +1,6 @@
 {
-  "_Breadcrumbs-77f152d6.js": {
-    "file": "assets/Breadcrumbs-77f152d6.js",
+  "_Breadcrumbs-e06cbf17.js": {
+    "file": "assets/Breadcrumbs-e06cbf17.js",
     "imports": [
       "_react-a3b2b924.js",
       "index.html"
@@ -39,11 +39,14 @@
     ]
   },
   "index.css": {
-    "file": "assets/index-230b84d2.css",
+    "file": "assets/index-9eeab96b.css",
     "src": "index.css"
   },
   "index.html": {
     "assets": [
+      "assets/LogoHorizontal-b851becc.png",
+      "assets/LogoIcon-46bae83a.png",
+      "assets/Logo-37649d4b.png",
       "assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
       "assets/playfair-display-latin-400-normal-3afd64d1.woff",
       "assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -64,7 +67,7 @@
       "assets/montserrat-latin-800-normal-26f9e611.woff"
     ],
     "css": [
-      "assets/index-230b84d2.css"
+      "assets/index-9eeab96b.css"
     ],
     "dynamicImports": [
       "src/pages/HomePage.tsx",
@@ -75,7 +78,7 @@
       "src/pages/PrivacyPage.tsx",
       "src/pages/NotFoundPage.tsx"
     ],
-    "file": "assets/app-f3fa7aef.js",
+    "file": "assets/app-49ea6100.js",
     "imports": [
       "_react-a3b2b924.js",
       "_ui-269cdc37.js",
@@ -157,12 +160,24 @@
     "file": "assets/playfair-display-latin-700-normal-28453852.woff2",
     "src": "node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-normal.woff2"
   },
+  "src/assets/Logo.png": {
+    "file": "assets/Logo-37649d4b.png",
+    "src": "src/assets/Logo.png"
+  },
+  "src/assets/LogoHorizontal.png": {
+    "file": "assets/LogoHorizontal-b851becc.png",
+    "src": "src/assets/LogoHorizontal.png"
+  },
+  "src/assets/LogoIcon.png": {
+    "file": "assets/LogoIcon-46bae83a.png",
+    "src": "src/assets/LogoIcon.png"
+  },
   "src/pages/ContactPage.tsx": {
-    "file": "assets/ContactPage-d5cb6740.js",
+    "file": "assets/ContactPage-dfa7b337.js",
     "imports": [
       "_react-a3b2b924.js",
       "index.html",
-      "_Breadcrumbs-77f152d6.js",
+      "_Breadcrumbs-e06cbf17.js",
       "_forms-a87a4cd0.js",
       "_framer-motion-00611b64.js",
       "_vendor-1536d2a4.js",
@@ -172,11 +187,11 @@
     "src": "src/pages/ContactPage.tsx"
   },
   "src/pages/GalleryPage.tsx": {
-    "file": "assets/GalleryPage-670c1bb3.js",
+    "file": "assets/GalleryPage-959e78b6.js",
     "imports": [
       "_react-a3b2b924.js",
       "index.html",
-      "_Breadcrumbs-77f152d6.js",
+      "_Breadcrumbs-e06cbf17.js",
       "_framer-motion-00611b64.js",
       "_vendor-1536d2a4.js",
       "_ui-269cdc37.js"
@@ -185,7 +200,7 @@
     "src": "src/pages/GalleryPage.tsx"
   },
   "src/pages/HomePage.tsx": {
-    "file": "assets/HomePage-af7a2f5b.js",
+    "file": "assets/HomePage-eda066ef.js",
     "imports": [
       "_react-a3b2b924.js",
       "index.html",
@@ -197,7 +212,7 @@
     "src": "src/pages/HomePage.tsx"
   },
   "src/pages/NotFoundPage.tsx": {
-    "file": "assets/NotFoundPage-3890b62e.js",
+    "file": "assets/NotFoundPage-e79e2641.js",
     "imports": [
       "_react-a3b2b924.js",
       "index.html",
@@ -209,11 +224,11 @@
     "src": "src/pages/NotFoundPage.tsx"
   },
   "src/pages/PackagesPage.tsx": {
-    "file": "assets/PackagesPage-34a9a78d.js",
+    "file": "assets/PackagesPage-91209195.js",
     "imports": [
       "_react-a3b2b924.js",
       "index.html",
-      "_Breadcrumbs-77f152d6.js",
+      "_Breadcrumbs-e06cbf17.js",
       "_framer-motion-00611b64.js",
       "_vendor-1536d2a4.js",
       "_ui-269cdc37.js"
@@ -222,7 +237,7 @@
     "src": "src/pages/PackagesPage.tsx"
   },
   "src/pages/PrivacyPage.tsx": {
-    "file": "assets/PrivacyPage-d7b8bbdb.js",
+    "file": "assets/PrivacyPage-7201dd61.js",
     "imports": [
       "_react-a3b2b924.js",
       "index.html",
@@ -234,11 +249,11 @@
     "src": "src/pages/PrivacyPage.tsx"
   },
   "src/pages/ServicesPage.tsx": {
-    "file": "assets/ServicesPage-ccf1b30d.js",
+    "file": "assets/ServicesPage-5e0acfaa.js",
     "imports": [
       "_react-a3b2b924.js",
       "index.html",
-      "_Breadcrumbs-77f152d6.js",
+      "_Breadcrumbs-e06cbf17.js",
       "_framer-motion-00611b64.js",
       "_vendor-1536d2a4.js",
       "_ui-269cdc37.js"
