@@ -1,45 +1,53 @@
 {
-  "_Breadcrumbs-0f5e21ad.js": {
-    "file": "assets/Breadcrumbs-0f5e21ad.js",
+  "_PageHero-8df1d344.js": {
+    "file": "assets/PageHero-8df1d344.js",
     "imports": [
-      "_react-a3b2b924.js",
-      "index.html"
+      "_react-e6a6115f.js",
+      "index.html",
+      "_Picture-3940eb1d.js",
+      "_framer-motion-b2f2394d.js"
     ]
   },
-  "_forms-a87a4cd0.js": {
-    "file": "assets/forms-a87a4cd0.js",
+  "_Picture-3940eb1d.js": {
+    "file": "assets/Picture-3940eb1d.js",
     "imports": [
-      "_react-a3b2b924.js"
+      "_react-e6a6115f.js"
     ]
   },
-  "_framer-motion-00611b64.js": {
-    "file": "assets/framer-motion-00611b64.js",
+  "_forms-888fca6f.js": {
+    "file": "assets/forms-888fca6f.js",
     "imports": [
-      "_react-a3b2b924.js",
-      "_vendor-1536d2a4.js"
+      "_react-e6a6115f.js"
     ]
   },
-  "_react-a3b2b924.js": {
-    "file": "assets/react-a3b2b924.js",
+  "_framer-motion-b2f2394d.js": {
+    "file": "assets/framer-motion-b2f2394d.js",
     "imports": [
-      "_vendor-1536d2a4.js"
+      "_react-e6a6115f.js",
+      "_vendor-b4936f23.js"
     ]
   },
-  "_ui-269cdc37.js": {
-    "file": "assets/ui-269cdc37.js",
+  "_react-e6a6115f.js": {
+    "file": "assets/react-e6a6115f.js",
     "imports": [
-      "_react-a3b2b924.js",
-      "_vendor-1536d2a4.js"
+      "_vendor-b4936f23.js"
     ]
   },
-  "_vendor-1536d2a4.js": {
-    "file": "assets/vendor-1536d2a4.js",
+  "_ui-916e68e1.js": {
+    "file": "assets/ui-916e68e1.js",
     "imports": [
-      "_react-a3b2b924.js"
+      "_react-e6a6115f.js",
+      "_vendor-b4936f23.js"
+    ]
+  },
+  "_vendor-b4936f23.js": {
+    "file": "assets/vendor-b4936f23.js",
+    "imports": [
+      "_react-e6a6115f.js"
     ]
   },
   "index.css": {
-    "file": "assets/index-4b6e1ae7.css",
+    "file": "assets/index-3ad07db2.css",
     "src": "index.css"
   },
   "index.html": {
@@ -64,7 +72,7 @@
       "assets/montserrat-latin-800-normal-26f9e611.woff"
     ],
     "css": [
-      "assets/index-4b6e1ae7.css"
+      "assets/index-3ad07db2.css"
     ],
     "dynamicImports": [
       "src/pages/HomePage.tsx",
@@ -75,12 +83,12 @@
       "src/pages/PrivacyPage.tsx",
       "src/pages/NotFoundPage.tsx"
     ],
-    "file": "assets/app-14b4cc52.js",
+    "file": "assets/app-f37c6db4.js",
     "imports": [
-      "_react-a3b2b924.js",
-      "_ui-269cdc37.js",
-      "_framer-motion-00611b64.js",
-      "_vendor-1536d2a4.js"
+      "_react-e6a6115f.js",
+      "_ui-916e68e1.js",
+      "_framer-motion-b2f2394d.js",
+      "_vendor-b4936f23.js"
     ],
     "isEntry": true,
     "src": "index.html"
@@ -158,90 +166,95 @@
     "src": "node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-normal.woff2"
   },
   "src/pages/ContactPage.tsx": {
-    "file": "assets/ContactPage-3d99333b.js",
+    "file": "assets/ContactPage-5cd42d2f.js",
     "imports": [
-      "_react-a3b2b924.js",
+      "_react-e6a6115f.js",
       "index.html",
-      "_Breadcrumbs-0f5e21ad.js",
-      "_forms-a87a4cd0.js",
-      "_framer-motion-00611b64.js",
-      "_vendor-1536d2a4.js",
-      "_ui-269cdc37.js"
+      "_PageHero-8df1d344.js",
+      "_forms-888fca6f.js",
+      "_Picture-3940eb1d.js",
+      "_framer-motion-b2f2394d.js",
+      "_vendor-b4936f23.js",
+      "_ui-916e68e1.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/ContactPage.tsx"
   },
   "src/pages/GalleryPage.tsx": {
-    "file": "assets/GalleryPage-19439af8.js",
+    "file": "assets/GalleryPage-6d573ece.js",
     "imports": [
-      "_react-a3b2b924.js",
+      "_react-e6a6115f.js",
       "index.html",
-      "_Breadcrumbs-0f5e21ad.js",
-      "_framer-motion-00611b64.js",
-      "_vendor-1536d2a4.js",
-      "_ui-269cdc37.js"
+      "_PageHero-8df1d344.js",
+      "_Picture-3940eb1d.js",
+      "_framer-motion-b2f2394d.js",
+      "_vendor-b4936f23.js",
+      "_ui-916e68e1.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/GalleryPage.tsx"
   },
   "src/pages/HomePage.tsx": {
-    "file": "assets/HomePage-ce0ba6ee.js",
+    "file": "assets/HomePage-6764d904.js",
     "imports": [
-      "_react-a3b2b924.js",
+      "_react-e6a6115f.js",
       "index.html",
-      "_framer-motion-00611b64.js",
-      "_vendor-1536d2a4.js",
-      "_ui-269cdc37.js"
+      "_Picture-3940eb1d.js",
+      "_framer-motion-b2f2394d.js",
+      "_vendor-b4936f23.js",
+      "_ui-916e68e1.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/HomePage.tsx"
   },
   "src/pages/NotFoundPage.tsx": {
-    "file": "assets/NotFoundPage-a051680f.js",
+    "file": "assets/NotFoundPage-1417e1b8.js",
     "imports": [
-      "_react-a3b2b924.js",
+      "_react-e6a6115f.js",
       "index.html",
-      "_vendor-1536d2a4.js",
-      "_ui-269cdc37.js",
-      "_framer-motion-00611b64.js"
+      "_vendor-b4936f23.js",
+      "_ui-916e68e1.js",
+      "_framer-motion-b2f2394d.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/NotFoundPage.tsx"
   },
   "src/pages/PackagesPage.tsx": {
-    "file": "assets/PackagesPage-c52d45f9.js",
+    "file": "assets/PackagesPage-21b33df7.js",
     "imports": [
-      "_react-a3b2b924.js",
+      "_react-e6a6115f.js",
       "index.html",
-      "_Breadcrumbs-0f5e21ad.js",
-      "_framer-motion-00611b64.js",
-      "_vendor-1536d2a4.js",
-      "_ui-269cdc37.js"
+      "_PageHero-8df1d344.js",
+      "_Picture-3940eb1d.js",
+      "_framer-motion-b2f2394d.js",
+      "_vendor-b4936f23.js",
+      "_ui-916e68e1.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/PackagesPage.tsx"
   },
   "src/pages/PrivacyPage.tsx": {
-    "file": "assets/PrivacyPage-45095222.js",
+    "file": "assets/PrivacyPage-9bcf4c02.js",
     "imports": [
-      "_react-a3b2b924.js",
+      "_react-e6a6115f.js",
       "index.html",
-      "_vendor-1536d2a4.js",
-      "_ui-269cdc37.js",
-      "_framer-motion-00611b64.js"
+      "_vendor-b4936f23.js",
+      "_ui-916e68e1.js",
+      "_framer-motion-b2f2394d.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/PrivacyPage.tsx"
   },
   "src/pages/ServicesPage.tsx": {
-    "file": "assets/ServicesPage-e8095f40.js",
+    "file": "assets/ServicesPage-8d7a8cbc.js",
     "imports": [
-      "_react-a3b2b924.js",
+      "_react-e6a6115f.js",
       "index.html",
-      "_Breadcrumbs-0f5e21ad.js",
-      "_framer-motion-00611b64.js",
-      "_vendor-1536d2a4.js",
-      "_ui-269cdc37.js"
+      "_PageHero-8df1d344.js",
+      "_Picture-3940eb1d.js",
+      "_framer-motion-b2f2394d.js",
+      "_vendor-b4936f23.js",
+      "_ui-916e68e1.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/ServicesPage.tsx"
