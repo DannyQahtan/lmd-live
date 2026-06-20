@@ -2410,7 +2410,7 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/components/schema/Breadcrumbs.tsx": [
-    "/assets/Breadcrumbs-e06cbf17.js"
+    "/assets/Breadcrumbs-09b35022.js"
   ],
   "src/hooks/useMediaQuery.ts": [
     "/assets/LogoHorizontal-b851becc.png",
@@ -2505,25 +2505,25 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/pages/ContactPage.tsx": [
-    "/assets/ContactPage-dfa7b337.js"
+    "/assets/ContactPage-0ba2b06f.js"
   ],
   "src/pages/GalleryPage.tsx": [
-    "/assets/GalleryPage-959e78b6.js"
+    "/assets/GalleryPage-73726205.js"
   ],
   "src/pages/HomePage.tsx": [
-    "/assets/HomePage-eda066ef.js"
+    "/assets/HomePage-140605a3.js"
   ],
   "src/pages/NotFoundPage.tsx": [
-    "/assets/NotFoundPage-e79e2641.js"
+    "/assets/NotFoundPage-39686b01.js"
   ],
   "src/pages/PackagesPage.tsx": [
-    "/assets/PackagesPage-91209195.js"
+    "/assets/PackagesPage-c715ac60.js"
   ],
   "src/pages/PrivacyPage.tsx": [
-    "/assets/PrivacyPage-7201dd61.js"
+    "/assets/PrivacyPage-0dfdf868.js"
   ],
   "src/pages/ServicesPage.tsx": [
-    "/assets/ServicesPage-5e0acfaa.js"
+    "/assets/ServicesPage-7ce45771.js"
   ],
   "src/routes.tsx": [
     "/assets/LogoHorizontal-b851becc.png",
@@ -2549,7 +2549,7 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/contactUs/index.tsx": [
-    "/assets/ContactPage-dfa7b337.js"
+    "/assets/ContactPage-0ba2b06f.js"
   ],
   "src/scenes/footer/index.tsx": [
     "/assets/LogoHorizontal-b851becc.png",
@@ -2575,13 +2575,13 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/gallery/index.tsx": [
-    "/assets/GalleryPage-959e78b6.js"
+    "/assets/GalleryPage-73726205.js"
   ],
   "src/scenes/home/SectionTeasers.tsx": [
-    "/assets/HomePage-eda066ef.js"
+    "/assets/HomePage-140605a3.js"
   ],
   "src/scenes/home/index.tsx": [
-    "/assets/HomePage-eda066ef.js"
+    "/assets/HomePage-140605a3.js"
   ],
   "src/scenes/navbar/Link.tsx": [
     "/assets/LogoHorizontal-b851becc.png",
@@ -2630,13 +2630,13 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/packages/index.tsx": [
-    "/assets/PackagesPage-91209195.js"
+    "/assets/PackagesPage-c715ac60.js"
   ],
   "src/scenes/privacy/index.tsx": [
-    "/assets/PrivacyPage-7201dd61.js"
+    "/assets/PrivacyPage-0dfdf868.js"
   ],
   "src/scenes/services/index.tsx": [
-    "/assets/ServicesPage-5e0acfaa.js"
+    "/assets/ServicesPage-7ce45771.js"
   ],
   "src/shared/Head.ts": [
     "/assets/LogoHorizontal-b851becc.png",
