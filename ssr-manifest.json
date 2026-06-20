@@ -2346,7 +2346,7 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/components/schema/Breadcrumbs.tsx": [
-    "/assets/Breadcrumbs-2b98df2f.js"
+    "/assets/Breadcrumbs-0f5e21ad.js"
   ],
   "src/hooks/useMediaQuery.ts": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
@@ -2429,25 +2429,25 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/pages/ContactPage.tsx": [
-    "/assets/ContactPage-11b10ea5.js"
+    "/assets/ContactPage-3d99333b.js"
   ],
   "src/pages/GalleryPage.tsx": [
-    "/assets/GalleryPage-d9f4ba15.js"
+    "/assets/GalleryPage-19439af8.js"
   ],
   "src/pages/HomePage.tsx": [
-    "/assets/HomePage-69b97a68.js"
+    "/assets/HomePage-ce0ba6ee.js"
   ],
   "src/pages/NotFoundPage.tsx": [
-    "/assets/NotFoundPage-54324760.js"
+    "/assets/NotFoundPage-a051680f.js"
   ],
   "src/pages/PackagesPage.tsx": [
-    "/assets/PackagesPage-e3215f25.js"
+    "/assets/PackagesPage-c52d45f9.js"
   ],
   "src/pages/PrivacyPage.tsx": [
-    "/assets/PrivacyPage-edebc5a7.js"
+    "/assets/PrivacyPage-45095222.js"
   ],
   "src/pages/ServicesPage.tsx": [
-    "/assets/ServicesPage-3ea375d2.js"
+    "/assets/ServicesPage-e8095f40.js"
   ],
   "src/routes.tsx": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
@@ -2470,7 +2470,7 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/contactUs/index.tsx": [
-    "/assets/ContactPage-11b10ea5.js"
+    "/assets/ContactPage-3d99333b.js"
   ],
   "src/scenes/footer/index.tsx": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
@@ -2493,13 +2493,13 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/gallery/index.tsx": [
-    "/assets/GalleryPage-d9f4ba15.js"
+    "/assets/GalleryPage-19439af8.js"
   ],
   "src/scenes/home/SectionTeasers.tsx": [
-    "/assets/HomePage-69b97a68.js"
+    "/assets/HomePage-ce0ba6ee.js"
   ],
   "src/scenes/home/index.tsx": [
-    "/assets/HomePage-69b97a68.js"
+    "/assets/HomePage-ce0ba6ee.js"
   ],
   "src/scenes/navbar/Link.tsx": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
@@ -2542,13 +2542,13 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/packages/index.tsx": [
-    "/assets/PackagesPage-e3215f25.js"
+    "/assets/PackagesPage-c52d45f9.js"
   ],
   "src/scenes/privacy/index.tsx": [
-    "/assets/PrivacyPage-edebc5a7.js"
+    "/assets/PrivacyPage-45095222.js"
   ],
   "src/scenes/services/index.tsx": [
-    "/assets/ServicesPage-3ea375d2.js"
+    "/assets/ServicesPage-e8095f40.js"
   ],
   "src/shared/Head.ts": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
