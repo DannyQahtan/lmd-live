@@ -1,29 +1,57 @@
 {
-  "_react-326a32b7.js": {
-    "file": "assets/react-326a32b7.js",
+  "_Breadcrumbs-77f152d6.js": {
+    "file": "assets/Breadcrumbs-77f152d6.js",
     "imports": [
-      "_vendor-4584f519.js"
+      "_react-a3b2b924.js",
+      "index.html"
     ]
   },
-  "_ui-ef071885.js": {
-    "file": "assets/ui-ef071885.js",
+  "_forms-a87a4cd0.js": {
+    "file": "assets/forms-a87a4cd0.js",
     "imports": [
-      "_react-326a32b7.js",
-      "_vendor-4584f519.js"
+      "_react-a3b2b924.js"
     ]
   },
-  "_vendor-4584f519.js": {
-    "file": "assets/vendor-4584f519.js",
+  "_framer-motion-00611b64.js": {
+    "file": "assets/framer-motion-00611b64.js",
     "imports": [
-      "_react-326a32b7.js"
+      "_react-a3b2b924.js",
+      "_vendor-1536d2a4.js"
+    ]
+  },
+  "_react-a3b2b924.js": {
+    "file": "assets/react-a3b2b924.js",
+    "imports": [
+      "_vendor-1536d2a4.js"
+    ]
+  },
+  "_ui-269cdc37.js": {
+    "file": "assets/ui-269cdc37.js",
+    "imports": [
+      "_react-a3b2b924.js",
+      "_vendor-1536d2a4.js"
+    ]
+  },
+  "_vendor-1536d2a4.js": {
+    "file": "assets/vendor-1536d2a4.js",
+    "imports": [
+      "_react-a3b2b924.js"
     ]
   },
   "index.css": {
-    "file": "assets/index-6ca4f0b9.css",
+    "file": "assets/index-230b84d2.css",
     "src": "index.css"
   },
   "index.html": {
     "assets": [
+      "assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
+      "assets/playfair-display-latin-400-normal-3afd64d1.woff",
+      "assets/playfair-display-latin-400-italic-eabce94d.woff2",
+      "assets/playfair-display-latin-400-italic-cc638df9.woff",
+      "assets/playfair-display-latin-700-normal-28453852.woff2",
+      "assets/playfair-display-latin-700-normal-648a046d.woff",
+      "assets/playfair-display-latin-700-italic-de2f4041.woff2",
+      "assets/playfair-display-latin-700-italic-ac47baa5.woff",
       "assets/montserrat-latin-400-normal-e66bcd27.woff2",
       "assets/montserrat-latin-400-normal-6a7d6a30.woff",
       "assets/montserrat-latin-500-normal-2b53300f.woff2",
@@ -36,17 +64,23 @@
       "assets/montserrat-latin-800-normal-26f9e611.woff"
     ],
     "css": [
-      "assets/index-6ca4f0b9.css"
+      "assets/index-230b84d2.css"
     ],
     "dynamicImports": [
       "src/pages/HomePage.tsx",
+      "src/pages/ServicesPage.tsx",
+      "src/pages/PackagesPage.tsx",
+      "src/pages/GalleryPage.tsx",
+      "src/pages/ContactPage.tsx",
+      "src/pages/PrivacyPage.tsx",
       "src/pages/NotFoundPage.tsx"
     ],
-    "file": "assets/app-7589e2a5.js",
+    "file": "assets/app-f3fa7aef.js",
     "imports": [
-      "_react-326a32b7.js",
-      "_ui-ef071885.js",
-      "_vendor-4584f519.js"
+      "_react-a3b2b924.js",
+      "_ui-269cdc37.js",
+      "_framer-motion-00611b64.js",
+      "_vendor-1536d2a4.js"
     ],
     "isEntry": true,
     "src": "index.html"
@@ -91,26 +125,125 @@
     "file": "assets/montserrat-latin-800-normal-ba826fb8.woff2",
     "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2"
   },
-  "src/pages/HomePage.tsx": {
-    "file": "assets/HomePage-74d3f0c0.js",
+  "node_modules/@fontsource/playfair-display/files/playfair-display-latin-400-italic.woff": {
+    "file": "assets/playfair-display-latin-400-italic-cc638df9.woff",
+    "src": "node_modules/@fontsource/playfair-display/files/playfair-display-latin-400-italic.woff"
+  },
+  "node_modules/@fontsource/playfair-display/files/playfair-display-latin-400-italic.woff2": {
+    "file": "assets/playfair-display-latin-400-italic-eabce94d.woff2",
+    "src": "node_modules/@fontsource/playfair-display/files/playfair-display-latin-400-italic.woff2"
+  },
+  "node_modules/@fontsource/playfair-display/files/playfair-display-latin-400-normal.woff": {
+    "file": "assets/playfair-display-latin-400-normal-3afd64d1.woff",
+    "src": "node_modules/@fontsource/playfair-display/files/playfair-display-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/playfair-display/files/playfair-display-latin-400-normal.woff2": {
+    "file": "assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
+    "src": "node_modules/@fontsource/playfair-display/files/playfair-display-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-italic.woff": {
+    "file": "assets/playfair-display-latin-700-italic-ac47baa5.woff",
+    "src": "node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-italic.woff"
+  },
+  "node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-italic.woff2": {
+    "file": "assets/playfair-display-latin-700-italic-de2f4041.woff2",
+    "src": "node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-italic.woff2"
+  },
+  "node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-normal.woff": {
+    "file": "assets/playfair-display-latin-700-normal-648a046d.woff",
+    "src": "node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-normal.woff2": {
+    "file": "assets/playfair-display-latin-700-normal-28453852.woff2",
+    "src": "node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-normal.woff2"
+  },
+  "src/pages/ContactPage.tsx": {
+    "file": "assets/ContactPage-d5cb6740.js",
     "imports": [
-      "_react-326a32b7.js",
+      "_react-a3b2b924.js",
       "index.html",
-      "_vendor-4584f519.js",
-      "_ui-ef071885.js"
+      "_Breadcrumbs-77f152d6.js",
+      "_forms-a87a4cd0.js",
+      "_framer-motion-00611b64.js",
+      "_vendor-1536d2a4.js",
+      "_ui-269cdc37.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/ContactPage.tsx"
+  },
+  "src/pages/GalleryPage.tsx": {
+    "file": "assets/GalleryPage-670c1bb3.js",
+    "imports": [
+      "_react-a3b2b924.js",
+      "index.html",
+      "_Breadcrumbs-77f152d6.js",
+      "_framer-motion-00611b64.js",
+      "_vendor-1536d2a4.js",
+      "_ui-269cdc37.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/GalleryPage.tsx"
+  },
+  "src/pages/HomePage.tsx": {
+    "file": "assets/HomePage-af7a2f5b.js",
+    "imports": [
+      "_react-a3b2b924.js",
+      "index.html",
+      "_framer-motion-00611b64.js",
+      "_vendor-1536d2a4.js",
+      "_ui-269cdc37.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/HomePage.tsx"
   },
   "src/pages/NotFoundPage.tsx": {
-    "file": "assets/NotFoundPage-ec506725.js",
+    "file": "assets/NotFoundPage-3890b62e.js",
     "imports": [
-      "_react-326a32b7.js",
+      "_react-a3b2b924.js",
       "index.html",
-      "_vendor-4584f519.js",
-      "_ui-ef071885.js"
+      "_vendor-1536d2a4.js",
+      "_ui-269cdc37.js",
+      "_framer-motion-00611b64.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/NotFoundPage.tsx"
+  },
+  "src/pages/PackagesPage.tsx": {
+    "file": "assets/PackagesPage-34a9a78d.js",
+    "imports": [
+      "_react-a3b2b924.js",
+      "index.html",
+      "_Breadcrumbs-77f152d6.js",
+      "_framer-motion-00611b64.js",
+      "_vendor-1536d2a4.js",
+      "_ui-269cdc37.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/PackagesPage.tsx"
+  },
+  "src/pages/PrivacyPage.tsx": {
+    "file": "assets/PrivacyPage-d7b8bbdb.js",
+    "imports": [
+      "_react-a3b2b924.js",
+      "index.html",
+      "_vendor-1536d2a4.js",
+      "_ui-269cdc37.js",
+      "_framer-motion-00611b64.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/PrivacyPage.tsx"
+  },
+  "src/pages/ServicesPage.tsx": {
+    "file": "assets/ServicesPage-ccf1b30d.js",
+    "imports": [
+      "_react-a3b2b924.js",
+      "index.html",
+      "_Breadcrumbs-77f152d6.js",
+      "_framer-motion-00611b64.js",
+      "_vendor-1536d2a4.js",
+      "_ui-269cdc37.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/ServicesPage.tsx"
   }
 }
