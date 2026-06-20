@@ -354,10 +354,10 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/pages/HomePage.tsx": [
-    "/assets/HomePage-fa8feba0.js"
+    "/assets/HomePage-74d3f0c0.js"
   ],
   "src/pages/NotFoundPage.tsx": [
-    "/assets/NotFoundPage-fbbb8d94.js"
+    "/assets/NotFoundPage-ec506725.js"
   ],
   "src/routes.tsx": [
     "/assets/montserrat-latin-400-normal-e66bcd27.woff2",
@@ -384,7 +384,7 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/home/index.tsx": [
-    "/assets/HomePage-fa8feba0.js"
+    "/assets/HomePage-74d3f0c0.js"
   ],
   "src/scenes/navbar/index.tsx": [
     "/assets/montserrat-latin-400-normal-e66bcd27.woff2",

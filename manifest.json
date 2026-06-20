@@ -42,7 +42,7 @@
       "src/pages/HomePage.tsx",
       "src/pages/NotFoundPage.tsx"
     ],
-    "file": "assets/app-fa24e8db.js",
+    "file": "assets/app-7589e2a5.js",
     "imports": [
       "_react-326a32b7.js",
       "_ui-ef071885.js",
@@ -92,7 +92,7 @@
     "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2"
   },
   "src/pages/HomePage.tsx": {
-    "file": "assets/HomePage-fa8feba0.js",
+    "file": "assets/HomePage-74d3f0c0.js",
     "imports": [
       "_react-326a32b7.js",
       "index.html",
@@ -103,7 +103,7 @@
     "src": "src/pages/HomePage.tsx"
   },
   "src/pages/NotFoundPage.tsx": {
-    "file": "assets/NotFoundPage-fbbb8d94.js",
+    "file": "assets/NotFoundPage-ec506725.js",
     "imports": [
       "_react-326a32b7.js",
       "index.html",
