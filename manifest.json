@@ -1,0 +1,116 @@
+{
+  "_react-326a32b7.js": {
+    "file": "assets/react-326a32b7.js",
+    "imports": [
+      "_vendor-4584f519.js"
+    ]
+  },
+  "_ui-ef071885.js": {
+    "file": "assets/ui-ef071885.js",
+    "imports": [
+      "_react-326a32b7.js",
+      "_vendor-4584f519.js"
+    ]
+  },
+  "_vendor-4584f519.js": {
+    "file": "assets/vendor-4584f519.js",
+    "imports": [
+      "_react-326a32b7.js"
+    ]
+  },
+  "index.css": {
+    "file": "assets/index-6ca4f0b9.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/montserrat-latin-400-normal-e66bcd27.woff2",
+      "assets/montserrat-latin-400-normal-6a7d6a30.woff",
+      "assets/montserrat-latin-500-normal-2b53300f.woff2",
+      "assets/montserrat-latin-500-normal-7ad98b2c.woff",
+      "assets/montserrat-latin-600-normal-d857325c.woff2",
+      "assets/montserrat-latin-600-normal-97ec5882.woff",
+      "assets/montserrat-latin-700-normal-f9d9e65b.woff2",
+      "assets/montserrat-latin-700-normal-ff51c769.woff",
+      "assets/montserrat-latin-800-normal-ba826fb8.woff2",
+      "assets/montserrat-latin-800-normal-26f9e611.woff"
+    ],
+    "css": [
+      "assets/index-6ca4f0b9.css"
+    ],
+    "dynamicImports": [
+      "src/pages/HomePage.tsx",
+      "src/pages/NotFoundPage.tsx"
+    ],
+    "file": "assets/app-fa24e8db.js",
+    "imports": [
+      "_react-326a32b7.js",
+      "_ui-ef071885.js",
+      "_vendor-4584f519.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff": {
+    "file": "assets/montserrat-latin-400-normal-6a7d6a30.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2": {
+    "file": "assets/montserrat-latin-400-normal-e66bcd27.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff": {
+    "file": "assets/montserrat-latin-500-normal-7ad98b2c.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2": {
+    "file": "assets/montserrat-latin-500-normal-2b53300f.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff": {
+    "file": "assets/montserrat-latin-600-normal-97ec5882.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2": {
+    "file": "assets/montserrat-latin-600-normal-d857325c.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff": {
+    "file": "assets/montserrat-latin-700-normal-ff51c769.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff2": {
+    "file": "assets/montserrat-latin-700-normal-f9d9e65b.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff": {
+    "file": "assets/montserrat-latin-800-normal-26f9e611.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2": {
+    "file": "assets/montserrat-latin-800-normal-ba826fb8.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2"
+  },
+  "src/pages/HomePage.tsx": {
+    "file": "assets/HomePage-fa8feba0.js",
+    "imports": [
+      "_react-326a32b7.js",
+      "index.html",
+      "_vendor-4584f519.js",
+      "_ui-ef071885.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/HomePage.tsx"
+  },
+  "src/pages/NotFoundPage.tsx": {
+    "file": "assets/NotFoundPage-fbbb8d94.js",
+    "imports": [
+      "_react-326a32b7.js",
+      "index.html",
+      "_vendor-4584f519.js",
+      "_ui-ef071885.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/NotFoundPage.tsx"
+  }
+}
