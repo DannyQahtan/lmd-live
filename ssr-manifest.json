@@ -2285,6 +2285,26 @@
   "node_modules/warning/warning.js": [
     "/assets/vendor-1536d2a4.js"
   ],
+  "src/components/BookNowButton.tsx": [
+    "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
+    "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
+    "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
+    "/assets/playfair-display-latin-400-italic-cc638df9.woff",
+    "/assets/playfair-display-latin-700-normal-28453852.woff2",
+    "/assets/playfair-display-latin-700-normal-648a046d.woff",
+    "/assets/playfair-display-latin-700-italic-de2f4041.woff2",
+    "/assets/playfair-display-latin-700-italic-ac47baa5.woff",
+    "/assets/montserrat-latin-400-normal-e66bcd27.woff2",
+    "/assets/montserrat-latin-400-normal-6a7d6a30.woff",
+    "/assets/montserrat-latin-500-normal-2b53300f.woff2",
+    "/assets/montserrat-latin-500-normal-7ad98b2c.woff",
+    "/assets/montserrat-latin-600-normal-d857325c.woff2",
+    "/assets/montserrat-latin-600-normal-97ec5882.woff",
+    "/assets/montserrat-latin-700-normal-f9d9e65b.woff2",
+    "/assets/montserrat-latin-700-normal-ff51c769.woff",
+    "/assets/montserrat-latin-800-normal-ba826fb8.woff2",
+    "/assets/montserrat-latin-800-normal-26f9e611.woff"
+  ],
   "src/components/DefaultMeta.tsx": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
@@ -2326,7 +2346,7 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/components/schema/Breadcrumbs.tsx": [
-    "/assets/Breadcrumbs-77cd2a1f.js"
+    "/assets/Breadcrumbs-2b98df2f.js"
   ],
   "src/hooks/useMediaQuery.ts": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
@@ -2409,25 +2429,25 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/pages/ContactPage.tsx": [
-    "/assets/ContactPage-91010d65.js"
+    "/assets/ContactPage-11b10ea5.js"
   ],
   "src/pages/GalleryPage.tsx": [
-    "/assets/GalleryPage-47e402d1.js"
+    "/assets/GalleryPage-d9f4ba15.js"
   ],
   "src/pages/HomePage.tsx": [
-    "/assets/HomePage-72516e37.js"
+    "/assets/HomePage-69b97a68.js"
   ],
   "src/pages/NotFoundPage.tsx": [
-    "/assets/NotFoundPage-1a4402af.js"
+    "/assets/NotFoundPage-54324760.js"
   ],
   "src/pages/PackagesPage.tsx": [
-    "/assets/PackagesPage-3e8ac748.js"
+    "/assets/PackagesPage-e3215f25.js"
   ],
   "src/pages/PrivacyPage.tsx": [
-    "/assets/PrivacyPage-9893ef63.js"
+    "/assets/PrivacyPage-edebc5a7.js"
   ],
   "src/pages/ServicesPage.tsx": [
-    "/assets/ServicesPage-420c4aa3.js"
+    "/assets/ServicesPage-3ea375d2.js"
   ],
   "src/routes.tsx": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
@@ -2450,7 +2470,7 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/contactUs/index.tsx": [
-    "/assets/ContactPage-91010d65.js"
+    "/assets/ContactPage-11b10ea5.js"
   ],
   "src/scenes/footer/index.tsx": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
@@ -2473,13 +2493,13 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/gallery/index.tsx": [
-    "/assets/GalleryPage-47e402d1.js"
+    "/assets/GalleryPage-d9f4ba15.js"
   ],
   "src/scenes/home/SectionTeasers.tsx": [
-    "/assets/HomePage-72516e37.js"
+    "/assets/HomePage-69b97a68.js"
   ],
   "src/scenes/home/index.tsx": [
-    "/assets/HomePage-72516e37.js"
+    "/assets/HomePage-69b97a68.js"
   ],
   "src/scenes/navbar/Link.tsx": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
@@ -2522,13 +2542,13 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/packages/index.tsx": [
-    "/assets/PackagesPage-3e8ac748.js"
+    "/assets/PackagesPage-e3215f25.js"
   ],
   "src/scenes/privacy/index.tsx": [
-    "/assets/PrivacyPage-9893ef63.js"
+    "/assets/PrivacyPage-edebc5a7.js"
   ],
   "src/scenes/services/index.tsx": [
-    "/assets/ServicesPage-420c4aa3.js"
+    "/assets/ServicesPage-3ea375d2.js"
   ],
   "src/shared/Head.ts": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
@@ -2571,6 +2591,26 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/shared/siteOrigin.ts": [
+    "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
+    "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
+    "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
+    "/assets/playfair-display-latin-400-italic-cc638df9.woff",
+    "/assets/playfair-display-latin-700-normal-28453852.woff2",
+    "/assets/playfair-display-latin-700-normal-648a046d.woff",
+    "/assets/playfair-display-latin-700-italic-de2f4041.woff2",
+    "/assets/playfair-display-latin-700-italic-ac47baa5.woff",
+    "/assets/montserrat-latin-400-normal-e66bcd27.woff2",
+    "/assets/montserrat-latin-400-normal-6a7d6a30.woff",
+    "/assets/montserrat-latin-500-normal-2b53300f.woff2",
+    "/assets/montserrat-latin-500-normal-7ad98b2c.woff",
+    "/assets/montserrat-latin-600-normal-d857325c.woff2",
+    "/assets/montserrat-latin-600-normal-97ec5882.woff",
+    "/assets/montserrat-latin-700-normal-f9d9e65b.woff2",
+    "/assets/montserrat-latin-700-normal-ff51c769.woff",
+    "/assets/montserrat-latin-800-normal-ba826fb8.woff2",
+    "/assets/montserrat-latin-800-normal-26f9e611.woff"
+  ],
+  "src/shared/tidycal.ts": [
     "/assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
     "/assets/playfair-display-latin-400-normal-3afd64d1.woff",
     "/assets/playfair-display-latin-400-italic-eabce94d.woff2",
