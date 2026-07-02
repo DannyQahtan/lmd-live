@@ -1,6 +1,6 @@
 {
-  "_PageHero-8df1d344.js": {
-    "file": "assets/PageHero-8df1d344.js",
+  "_PageHero-94c3e23e.js": {
+    "file": "assets/PageHero-94c3e23e.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
@@ -10,12 +10,6 @@
   },
   "_Picture-3940eb1d.js": {
     "file": "assets/Picture-3940eb1d.js",
-    "imports": [
-      "_react-e6a6115f.js"
-    ]
-  },
-  "_forms-888fca6f.js": {
-    "file": "assets/forms-888fca6f.js",
     "imports": [
       "_react-e6a6115f.js"
     ]
@@ -47,11 +41,12 @@
     ]
   },
   "index.css": {
-    "file": "assets/index-3ad07db2.css",
+    "file": "assets/index-b7117a31.css",
     "src": "index.css"
   },
   "index.html": {
     "assets": [
+      "assets/Logo-a2fcae50.png",
       "assets/playfair-display-latin-400-normal-1fe9ad5d.woff2",
       "assets/playfair-display-latin-400-normal-3afd64d1.woff",
       "assets/playfair-display-latin-400-italic-eabce94d.woff2",
@@ -72,7 +67,7 @@
       "assets/montserrat-latin-800-normal-26f9e611.woff"
     ],
     "css": [
-      "assets/index-3ad07db2.css"
+      "assets/index-b7117a31.css"
     ],
     "dynamicImports": [
       "src/pages/HomePage.tsx",
@@ -83,7 +78,7 @@
       "src/pages/PrivacyPage.tsx",
       "src/pages/NotFoundPage.tsx"
     ],
-    "file": "assets/app-f37c6db4.js",
+    "file": "assets/app-c848d8b8.js",
     "imports": [
       "_react-e6a6115f.js",
       "_ui-916e68e1.js",
@@ -165,13 +160,16 @@
     "file": "assets/playfair-display-latin-700-normal-28453852.woff2",
     "src": "node_modules/@fontsource/playfair-display/files/playfair-display-latin-700-normal.woff2"
   },
+  "src/assets/Logo.png": {
+    "file": "assets/Logo-a2fcae50.png",
+    "src": "src/assets/Logo.png"
+  },
   "src/pages/ContactPage.tsx": {
-    "file": "assets/ContactPage-5cd42d2f.js",
+    "file": "assets/ContactPage-64b00e15.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-8df1d344.js",
-      "_forms-888fca6f.js",
+      "_PageHero-94c3e23e.js",
       "_Picture-3940eb1d.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
@@ -181,11 +179,11 @@
     "src": "src/pages/ContactPage.tsx"
   },
   "src/pages/GalleryPage.tsx": {
-    "file": "assets/GalleryPage-6d573ece.js",
+    "file": "assets/GalleryPage-3abf9af4.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-8df1d344.js",
+      "_PageHero-94c3e23e.js",
       "_Picture-3940eb1d.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
@@ -195,7 +193,7 @@
     "src": "src/pages/GalleryPage.tsx"
   },
   "src/pages/HomePage.tsx": {
-    "file": "assets/HomePage-6764d904.js",
+    "file": "assets/HomePage-4e43f0da.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
@@ -208,7 +206,7 @@
     "src": "src/pages/HomePage.tsx"
   },
   "src/pages/NotFoundPage.tsx": {
-    "file": "assets/NotFoundPage-1417e1b8.js",
+    "file": "assets/NotFoundPage-503cd430.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
@@ -220,11 +218,11 @@
     "src": "src/pages/NotFoundPage.tsx"
   },
   "src/pages/PackagesPage.tsx": {
-    "file": "assets/PackagesPage-21b33df7.js",
+    "file": "assets/PackagesPage-29e0caba.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-8df1d344.js",
+      "_PageHero-94c3e23e.js",
       "_Picture-3940eb1d.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
@@ -234,7 +232,7 @@
     "src": "src/pages/PackagesPage.tsx"
   },
   "src/pages/PrivacyPage.tsx": {
-    "file": "assets/PrivacyPage-9bcf4c02.js",
+    "file": "assets/PrivacyPage-02a26c34.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
@@ -246,11 +244,11 @@
     "src": "src/pages/PrivacyPage.tsx"
   },
   "src/pages/ServicesPage.tsx": {
-    "file": "assets/ServicesPage-8d7a8cbc.js",
+    "file": "assets/ServicesPage-09e6ab6d.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-8df1d344.js",
+      "_PageHero-94c3e23e.js",
       "_Picture-3940eb1d.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
