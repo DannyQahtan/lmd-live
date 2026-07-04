@@ -1,15 +1,15 @@
 {
-  "_PageHero-94c3e23e.js": {
-    "file": "assets/PageHero-94c3e23e.js",
+  "_PageHero-7982b519.js": {
+    "file": "assets/PageHero-7982b519.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_Picture-3940eb1d.js",
+      "_Picture-a42efcf2.js",
       "_framer-motion-b2f2394d.js"
     ]
   },
-  "_Picture-3940eb1d.js": {
-    "file": "assets/Picture-3940eb1d.js",
+  "_Picture-a42efcf2.js": {
+    "file": "assets/Picture-a42efcf2.js",
     "imports": [
       "_react-e6a6115f.js"
     ]
@@ -41,7 +41,7 @@
     ]
   },
   "index.css": {
-    "file": "assets/index-b7117a31.css",
+    "file": "assets/index-04cbfae9.css",
     "src": "index.css"
   },
   "index.html": {
@@ -67,7 +67,7 @@
       "assets/montserrat-latin-800-normal-26f9e611.woff"
     ],
     "css": [
-      "assets/index-b7117a31.css"
+      "assets/index-04cbfae9.css"
     ],
     "dynamicImports": [
       "src/pages/HomePage.tsx",
@@ -78,7 +78,7 @@
       "src/pages/PrivacyPage.tsx",
       "src/pages/NotFoundPage.tsx"
     ],
-    "file": "assets/app-c848d8b8.js",
+    "file": "assets/app-df62e740.js",
     "imports": [
       "_react-e6a6115f.js",
       "_ui-916e68e1.js",
@@ -165,12 +165,12 @@
     "src": "src/assets/Logo.png"
   },
   "src/pages/ContactPage.tsx": {
-    "file": "assets/ContactPage-64b00e15.js",
+    "file": "assets/ContactPage-123c37fc.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-94c3e23e.js",
-      "_Picture-3940eb1d.js",
+      "_PageHero-7982b519.js",
+      "_Picture-a42efcf2.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
       "_ui-916e68e1.js"
@@ -179,12 +179,12 @@
     "src": "src/pages/ContactPage.tsx"
   },
   "src/pages/GalleryPage.tsx": {
-    "file": "assets/GalleryPage-3abf9af4.js",
+    "file": "assets/GalleryPage-5c58b72b.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-94c3e23e.js",
-      "_Picture-3940eb1d.js",
+      "_PageHero-7982b519.js",
+      "_Picture-a42efcf2.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
       "_ui-916e68e1.js"
@@ -193,11 +193,11 @@
     "src": "src/pages/GalleryPage.tsx"
   },
   "src/pages/HomePage.tsx": {
-    "file": "assets/HomePage-4e43f0da.js",
+    "file": "assets/HomePage-748d4f7a.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_Picture-3940eb1d.js",
+      "_Picture-a42efcf2.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
       "_ui-916e68e1.js"
@@ -206,7 +206,7 @@
     "src": "src/pages/HomePage.tsx"
   },
   "src/pages/NotFoundPage.tsx": {
-    "file": "assets/NotFoundPage-503cd430.js",
+    "file": "assets/NotFoundPage-6d80de28.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
@@ -218,12 +218,12 @@
     "src": "src/pages/NotFoundPage.tsx"
   },
   "src/pages/PackagesPage.tsx": {
-    "file": "assets/PackagesPage-29e0caba.js",
+    "file": "assets/PackagesPage-58ddb930.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-94c3e23e.js",
-      "_Picture-3940eb1d.js",
+      "_PageHero-7982b519.js",
+      "_Picture-a42efcf2.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
       "_ui-916e68e1.js"
@@ -232,7 +232,7 @@
     "src": "src/pages/PackagesPage.tsx"
   },
   "src/pages/PrivacyPage.tsx": {
-    "file": "assets/PrivacyPage-02a26c34.js",
+    "file": "assets/PrivacyPage-ff0504f4.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
@@ -244,12 +244,12 @@
     "src": "src/pages/PrivacyPage.tsx"
   },
   "src/pages/ServicesPage.tsx": {
-    "file": "assets/ServicesPage-09e6ab6d.js",
+    "file": "assets/ServicesPage-b459f4e4.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-94c3e23e.js",
-      "_Picture-3940eb1d.js",
+      "_PageHero-7982b519.js",
+      "_Picture-a42efcf2.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
       "_ui-916e68e1.js"
