@@ -2349,7 +2349,7 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/components/PageHero.tsx": [
-    "/assets/PageHero-d331d5b1.js"
+    "/assets/PageHero-278dc0b0.js"
   ],
   "src/components/Picture.tsx": [
     "/assets/Picture-a42efcf2.js"
@@ -2376,10 +2376,10 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/components/WhatsAppButton.tsx": [
-    "/assets/ContactPage-33574a04.js"
+    "/assets/ContactPage-d7eed3f3.js"
   ],
   "src/components/schema/Breadcrumbs.tsx": [
-    "/assets/PageHero-d331d5b1.js"
+    "/assets/PageHero-278dc0b0.js"
   ],
   "src/hooks/useMediaQuery.ts": [
     "/assets/Logo-a2fcae50.png",
@@ -2466,25 +2466,25 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/pages/ContactPage.tsx": [
-    "/assets/ContactPage-33574a04.js"
+    "/assets/ContactPage-d7eed3f3.js"
   ],
   "src/pages/GalleryPage.tsx": [
-    "/assets/GalleryPage-6ba2b833.js"
+    "/assets/GalleryPage-5ca5e893.js"
   ],
   "src/pages/HomePage.tsx": [
-    "/assets/HomePage-5e07716e.js"
+    "/assets/HomePage-60a8b155.js"
   ],
   "src/pages/NotFoundPage.tsx": [
-    "/assets/NotFoundPage-d668fe06.js"
+    "/assets/NotFoundPage-ab7f62f8.js"
   ],
   "src/pages/PackagesPage.tsx": [
-    "/assets/PackagesPage-5eec9796.js"
+    "/assets/PackagesPage-8ef92b00.js"
   ],
   "src/pages/PrivacyPage.tsx": [
-    "/assets/PrivacyPage-6dfff1ae.js"
+    "/assets/PrivacyPage-576fc053.js"
   ],
   "src/pages/ServicesPage.tsx": [
-    "/assets/ServicesPage-c5f5ba06.js"
+    "/assets/ServicesPage-a860a908.js"
   ],
   "src/routes.tsx": [
     "/assets/Logo-a2fcae50.png",
@@ -2508,7 +2508,7 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/contactUs/index.tsx": [
-    "/assets/ContactPage-33574a04.js"
+    "/assets/ContactPage-d7eed3f3.js"
   ],
   "src/scenes/footer/index.tsx": [
     "/assets/Logo-a2fcae50.png",
@@ -2532,19 +2532,19 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/gallery/index.tsx": [
-    "/assets/GalleryPage-6ba2b833.js"
+    "/assets/GalleryPage-5ca5e893.js"
   ],
   "src/scenes/home/FleetStrip.tsx": [
-    "/assets/HomePage-5e07716e.js"
+    "/assets/HomePage-60a8b155.js"
   ],
   "src/scenes/home/ProcessBand.tsx": [
-    "/assets/HomePage-5e07716e.js"
+    "/assets/HomePage-60a8b155.js"
   ],
   "src/scenes/home/SectionTeasers.tsx": [
-    "/assets/HomePage-5e07716e.js"
+    "/assets/HomePage-60a8b155.js"
   ],
   "src/scenes/home/index.tsx": [
-    "/assets/HomePage-5e07716e.js"
+    "/assets/HomePage-60a8b155.js"
   ],
   "src/scenes/navbar/Link.tsx": [
     "/assets/Logo-a2fcae50.png",
@@ -2589,13 +2589,13 @@
     "/assets/montserrat-latin-800-normal-26f9e611.woff"
   ],
   "src/scenes/packages/index.tsx": [
-    "/assets/PackagesPage-5eec9796.js"
+    "/assets/PackagesPage-8ef92b00.js"
   ],
   "src/scenes/privacy/index.tsx": [
-    "/assets/PrivacyPage-6dfff1ae.js"
+    "/assets/PrivacyPage-576fc053.js"
   ],
   "src/scenes/services/index.tsx": [
-    "/assets/ServicesPage-c5f5ba06.js"
+    "/assets/ServicesPage-a860a908.js"
   ],
   "src/shared/Head.ts": [
     "/assets/Logo-a2fcae50.png",
@@ -2643,7 +2643,7 @@
     "/assets/Picture-a42efcf2.js"
   ],
   "src/shared/siteConfig.ts": [
-    "/assets/ContactPage-33574a04.js"
+    "/assets/ContactPage-d7eed3f3.js"
   ],
   "src/shared/siteOrigin.ts": [
     "/assets/Logo-a2fcae50.png",
