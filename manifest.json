@@ -1,6 +1,6 @@
 {
-  "_PageHero-278dc0b0.js": {
-    "file": "assets/PageHero-278dc0b0.js",
+  "_PageHero-1e47ba2e.js": {
+    "file": "assets/PageHero-1e47ba2e.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
@@ -78,7 +78,7 @@
       "src/pages/PrivacyPage.tsx",
       "src/pages/NotFoundPage.tsx"
     ],
-    "file": "assets/app-5569590b.js",
+    "file": "assets/app-ce6dd700.js",
     "imports": [
       "_react-e6a6115f.js",
       "_ui-916e68e1.js",
@@ -165,11 +165,11 @@
     "src": "src/assets/Logo.png"
   },
   "src/pages/ContactPage.tsx": {
-    "file": "assets/ContactPage-d7eed3f3.js",
+    "file": "assets/ContactPage-21c3f086.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-278dc0b0.js",
+      "_PageHero-1e47ba2e.js",
       "_Picture-a42efcf2.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
@@ -179,11 +179,11 @@
     "src": "src/pages/ContactPage.tsx"
   },
   "src/pages/GalleryPage.tsx": {
-    "file": "assets/GalleryPage-5ca5e893.js",
+    "file": "assets/GalleryPage-502b23c2.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-278dc0b0.js",
+      "_PageHero-1e47ba2e.js",
       "_Picture-a42efcf2.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
@@ -193,7 +193,7 @@
     "src": "src/pages/GalleryPage.tsx"
   },
   "src/pages/HomePage.tsx": {
-    "file": "assets/HomePage-60a8b155.js",
+    "file": "assets/HomePage-86d06055.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
@@ -206,7 +206,7 @@
     "src": "src/pages/HomePage.tsx"
   },
   "src/pages/NotFoundPage.tsx": {
-    "file": "assets/NotFoundPage-ab7f62f8.js",
+    "file": "assets/NotFoundPage-633e598a.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
@@ -218,11 +218,11 @@
     "src": "src/pages/NotFoundPage.tsx"
   },
   "src/pages/PackagesPage.tsx": {
-    "file": "assets/PackagesPage-8ef92b00.js",
+    "file": "assets/PackagesPage-dc240241.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-278dc0b0.js",
+      "_PageHero-1e47ba2e.js",
       "_Picture-a42efcf2.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
@@ -232,7 +232,7 @@
     "src": "src/pages/PackagesPage.tsx"
   },
   "src/pages/PrivacyPage.tsx": {
-    "file": "assets/PrivacyPage-576fc053.js",
+    "file": "assets/PrivacyPage-65791e19.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
@@ -244,11 +244,11 @@
     "src": "src/pages/PrivacyPage.tsx"
   },
   "src/pages/ServicesPage.tsx": {
-    "file": "assets/ServicesPage-a860a908.js",
+    "file": "assets/ServicesPage-2678e2e2.js",
     "imports": [
       "_react-e6a6115f.js",
       "index.html",
-      "_PageHero-278dc0b0.js",
+      "_PageHero-1e47ba2e.js",
       "_Picture-a42efcf2.js",
       "_framer-motion-b2f2394d.js",
       "_vendor-b4936f23.js",
